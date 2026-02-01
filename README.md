@@ -50,10 +50,6 @@ This project is open source and available for learning and portfolio use.
 
 ---
 
-### 🔥 Pro tip (optional but powerful)
 
-Add this line to the **top of your GitHub repo description**:
-
-> Secure role-based admin dashboard using Firebase Auth & Firestore (RBAC) — Live demo included.
 
 
